@@ -1,0 +1,32 @@
+aid: ddownload
+name: ddownload
+description: "File Sharing and Storage"
+url: https://ddownload.com/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cloud Storage & File Sharing"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cloud Storage And File Sharing
+  - Public APIs
+apis:
+  - name: ddownload
+    description: "File Sharing and Storage"
+    humanURL: https://ddownload.com/api
+    baseURL: https://ddownload.com/api
+    tags:
+      - Cloud Storage And File Sharing
+    properties:
+      - type: Documentation
+        url: https://ddownload.com/api
+common:
+  - type: Website
+    url: https://ddownload.com/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
