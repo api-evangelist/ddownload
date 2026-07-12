@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://ddownload.com/api
 common:
+  - type: DomainSecurity
+    url: security/ddownload-domain-security.yml
   - type: Website
     url: https://ddownload.com/api
   - type: PublicAPIsListing
