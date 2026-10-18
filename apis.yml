@@ -39,7 +39,8 @@ apis:
   - name: ddownload
     description: "File Sharing and Storage"
     humanURL: https://ddownload.com/api
-    tags:
+    tags: []
+    tags_raw:
       - Cloud Storage And File Sharing
     properties:
       - type: Documentation
